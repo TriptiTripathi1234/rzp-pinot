@@ -100,6 +100,10 @@
       "dataType": "LONG"
     },
     {
+      "name": "duration_micros",
+      "dataType": "DOUBLE"
+    },
+    {
       "name": "error_count",
       "dataType": "INT"
     },
