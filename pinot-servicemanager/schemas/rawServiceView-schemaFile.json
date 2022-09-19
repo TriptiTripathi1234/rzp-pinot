@@ -30,6 +30,10 @@
       "dataType": "LONG"
     },
     {
+      "name": "duration_micros",
+      "dataType": "DOUBLE"
+    },
+    {
       "name": "span_kind",
       "dataType": "STRING"
     },

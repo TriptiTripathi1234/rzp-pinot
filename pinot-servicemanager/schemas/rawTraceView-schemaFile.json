@@ -30,6 +30,11 @@
       "defaultNullValue": 0
     },
     {
+      "name": "duration_micros",
+      "dataType": "DOUBLE",
+      "defaultNullValue": 0
+    },
+    {
       "name": "num_services",
       "dataType": "INT",
       "defaultNullValue": 0
